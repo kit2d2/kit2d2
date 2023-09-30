@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Adele
+- 🗨️ Owner of Azelify, visit https://azelify.tebex.io for more info.
+- 🌱 Currently learning more about software development 
+- 💞️ I’m looking to collaborate on Azelify
+- 📫 Support: Contact azelifyofficial@gmail.com | Open a ticket in the Discord
