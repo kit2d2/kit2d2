@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Adele
-- 🗨️ Owner of Azelify, visit https://azelify.tebex.io for more info.
+# am cat meow
+- 🗨️ meow 👌
 - 🌱 Currently learning more about software development 
-- 💞️ I’m looking to collaborate on Azelify
-- 📫 Support: Contact azelifyofficial@gmail.com | Open a ticket in the Discord
+# ~ Attempting to look for people who can help me host web proxies
+- 📫 Support: Contact azelifyofficial@gmail.com | Facing issues with Discord ATM
